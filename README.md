@@ -1,2 +1,2 @@
 # codex-cloud-skills
-cloud skills
+Cloud environment for my Codex skills.
